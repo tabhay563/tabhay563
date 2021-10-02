@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tabhay563
 - 👀 I’m interested in DevOps ,CODING 
 - 🌱 I’m currently learning JAVA and DSA
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Kubernetes
 - 📫 How to reach me ...
 
 <!---
